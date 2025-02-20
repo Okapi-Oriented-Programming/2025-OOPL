@@ -1,6 +1,6 @@
 # 2025-OOPL Proposal Lab
 
-# OOPL Lab 01 - 提交 Proposal
+## OOPL Lab 01 - 提交 Proposal
 
 在這個 Lab 中，你將：
 
