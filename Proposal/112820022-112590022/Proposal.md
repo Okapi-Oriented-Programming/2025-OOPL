@@ -167,4 +167,4 @@ Untitled Action是一個2D橫向冒險類遊戲，從造物主是外星人，幾
   - [ ] 即將展示作品而你繼續噴殺蟲劑
 
 ### ~~*這餅畫得又大又圓：P*~~
-![alt text](image.png)
+![image.png](https://megapx-assets.dcard.tw/images/499e826a-1bf6-40a6-ad83-a41f4169b4a5/full.jpeg)
