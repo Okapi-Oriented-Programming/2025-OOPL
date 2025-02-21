@@ -27,5 +27,5 @@
 ### 14~17週 遊戲優化和新增額外功能(ex BGM、額外機制)
 
 Giraffe Adventure
-
+![Giraffe Adventure](/Giraffe_Adventure.png)
 
