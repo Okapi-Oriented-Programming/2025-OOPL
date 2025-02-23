@@ -69,5 +69,5 @@ http://youtube.com/watch?v=R62O9LWOsvg&t=2891s
   - [ ] 確認遊戲設計有無疏漏
 
 
-# Practice
-![img](螢幕擷取畫面 2025-02-21 234459.png)
+# Practice screenshot
+![img](https://github.com/Kai-1220/2025-OOPL/blob/main/Proposal/112590012-112590059/2025-02-21.png)
