@@ -61,4 +61,4 @@ http://youtube.com/watch?v=R62O9LWOsvg&t=2891s
 
 
 # Practice screenshot
-![img](https://github.com/Kai-1220/2025-OOPL/blob/main/Proposal/112590012-112590059/2025-02-21.png)
+![img](https://github.com/Kai-1220/2025-OOPL/blob/main/Proposal/112590012-112590059/image.png)
