@@ -13,7 +13,7 @@
 - 獲勝條件：馬力歐到達綠色旗子處
 - 失敗情況：失去所有生命值
 - 關卡情形：每個關卡具有不同的地圖障礙及怪物擺放位置
-- 遊戲影片：XXX
+- 遊戲影片：(https://youtu.be/-avspZlbOWU?si=w2jzLgnK2WW6tRMu)
 
 # Development timeline
 
