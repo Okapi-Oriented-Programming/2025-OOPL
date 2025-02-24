@@ -23,7 +23,7 @@
 #### Monkeys
 
 每種猴子都有自己專屬的能力，例如：
-- Dart Monkey會使用最基本的投射物，升級後可使投射物  
+- Dart Monkey會使用最基本的投射物，升級後可使每個投射物穿越更多氣球 (pierces through more bloons ~~because it sounds stupid in chinese~~)  
 - Cannon可以造成範圍傷害  
 - Ice Monkey可以讓Bloons凍結，使其短暫的不能移動、免疫尖銳的攻擊
 
