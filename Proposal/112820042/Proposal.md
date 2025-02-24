@@ -66,3 +66,6 @@
 
 以下是長頸鹿大冒險的截圖
 <img src="./pic/pass.png"  style="zoom:50%;" />
+
+以下是oop成績：
+<img src="./pic/oop_score.png"  style="zoom:50%;" />
