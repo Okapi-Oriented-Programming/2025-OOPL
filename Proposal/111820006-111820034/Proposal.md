@@ -11,7 +11,7 @@
 
 - 原版遊戲官方宣傳: https://www.youtube.com/watch?v=SBS3puuZSzE
 
-### Our Goal
+- Our Goal
 
 - 完成至少 12 關關卡
   - 初級關卡 3 關 包含基礎消去邏輯、方塊掉落、特殊效果方塊合成、特殊方塊功能使用、連鎖效果、關卡內方塊指引功能
