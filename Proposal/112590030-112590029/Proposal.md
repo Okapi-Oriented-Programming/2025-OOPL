@@ -20,9 +20,13 @@
 - 每次失敗後都可以選擇要不要接關繼續 不接關則失敗 反之則繼續失敗的關卡 直到打敗所有其他角色
 
 # 個人問題
-- 還有想請教助教 我有在寒假時就用模板就製作一些內容 而好像在開學後模板的內容有變更一些
-- 好像是Draw的輸入值變了之類的 聽助教上課說好像是之前有效能問題等 而我們要做的遊戲並沒有很多的物件等
-- 所以想請問助教能否繼續使用 先前的模板內容 個人使用起來感覺(比較方便?) 還是說目前的模板內容會相對好很多
+- 助教你好 我以替換新的框架 但我修改了一些內容 
+- 在Text,image,Animation的Draw()的內容 我替換成了之前的void Draw(const Util::Transform &transform, const float zIndex) 請問這樣是可以的嗎
+- 還有我會在PTSD架構中新增一些function 但每次從git下載下來後 重新在clion編譯 
+- 又會從PTSD的github下載 導致我新增的function被下載的檔案蓋掉 我該要怎麼讓它 不會每次編譯時都下載 而是作為一個資料夾儲存在我的github
+- 還有在Image.cpp跟Text.cpp裡的s_Program =std::make_unique<Core::Program>(PTSD_ASSETS_DIR "/shaders/Base.vert",PTSD_ASSETS_DIR "/shaders/Base.frag");
+- PTSD_ASSETS_DIR 後的一格會有警示 雖然遊戲能正常執行 但想問問會不會有什麼問題
+- ![image-20250220173942254](./question_1.png)
 # Development timeline
 
 # StreetFighter2 開發時程表
