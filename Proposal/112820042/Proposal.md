@@ -67,3 +67,5 @@
 
 - Week 17：準備報告
 
+以下是長頸鹿大冒險的截圖
+<img src="./pic/pass.png"  style="zoom:50%;" />
