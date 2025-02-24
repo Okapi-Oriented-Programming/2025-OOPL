@@ -1,6 +1,6 @@
 # Abstract
 
-遊戲名稱： AOL 
+遊戲名稱： AL (Archer's legend)
 
 組員：
 
