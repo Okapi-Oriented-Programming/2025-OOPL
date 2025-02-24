@@ -20,13 +20,13 @@
 - 每次失敗後都可以選擇要不要接關繼續 不接關則失敗 反之則繼續失敗的關卡 直到打敗所有其他角色
 
 # 個人問題
-- 助教你好 我以替換新的框架 但我修改了一些內容 
-- 在Text,image,Animation的Draw()的內容 我替換成了之前的void Draw(const Util::Transform &transform, const float zIndex) 請問這樣是可以的嗎
-- 還有我會在PTSD架構中新增一些function 但每次從git下載下來後 重新在clion編譯 
-- 又會從PTSD的github下載 導致我新增的function被下載的檔案蓋掉 我該要怎麼讓它 不會每次編譯時都下載 而是作為一個資料夾儲存在我的github
+- 助教你好 你建議的 直接將新的實作寫在你的遊戲專案裡
+- 是指說用繼承到一個新的class嗎 但仔細想想 不能直接取原本PTSD private的成員(除非原本就有Getter or Setter) 而且只是想要新增原本沒有的Getter or Setter
+- 還是有什麼其他方法嗎 想請教助教
 - 還有在Image.cpp跟Text.cpp裡的s_Program =std::make_unique<Core::Program>(PTSD_ASSETS_DIR "/shaders/Base.vert",PTSD_ASSETS_DIR "/shaders/Base.frag");
-- PTSD_ASSETS_DIR 後的一格會有警示 雖然遊戲能正常執行 但想問問會不會有什麼問題
+- PTSD_ASSETS_DIR 後的一格會有警示 雖然遊戲能正常執行 但想問問會不會有什麼問題 附上錯誤截圖
 - ![image-20250220173942254](./question_1.png)
+![image-20250220173942254](./question_2.png)
 # Development timeline
 
 # StreetFighter2 開發時程表
