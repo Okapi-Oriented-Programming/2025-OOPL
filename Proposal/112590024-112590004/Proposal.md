@@ -1,6 +1,6 @@
 # Abstract
 
-遊戲名稱：The Legend of Zelda Pro  
+遊戲名稱：明日方舟
 
 組員：
 
@@ -9,7 +9,7 @@
 
 # Game Introduction
 
-主角在地下成闖蕩，關卡隨者時間越來越難，遇到的Boss也越來越多。  
+策略型戰略塔房遊戲。  
 
 # Development timeline
 
