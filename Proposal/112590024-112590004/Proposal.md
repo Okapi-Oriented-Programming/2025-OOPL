@@ -9,7 +9,7 @@
 
 # Game Introduction
 
-策略型戰略塔房遊戲。  
+- 策略型戰略塔房遊戲。    
 
 # Development timeline
 
