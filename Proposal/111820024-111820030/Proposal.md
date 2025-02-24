@@ -12,7 +12,7 @@
 - 一款結合貪吃蛇及彈幕的動作遊戲
 - 閃躲彈幕並收集資料來攻擊敵人
 - 上下左右控制方向 按著space(觀察模式)可以停止動作並緩慢移動 長按D攻擊 S消除附近彈幕(有冷卻) F衝刺
-- 目標為前兩個boss 貝德維爾&高文
+- 目標為前兩個boss 貝德維爾&高文 (boss have 7 phases)
 - 影片連結: https://www.youtube.com/watch?v=KASNaessc_s
 
 # Development timeline
