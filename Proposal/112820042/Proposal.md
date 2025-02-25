@@ -8,7 +8,8 @@
 
 # Game Introduction
 
-這是一款靈感來自《弓箭傳說》的動作冒險爬塔遊戲。
+這是一款靈感來自《弓箭傳說》的動作冒險爬塔遊戲。 https://www.youtube.com/watch?v=9fCuhVeJiXk&pp=ygUT5byT566t5YKz6KqqIOS7i-e0uQ%3D%3D
+
 在遊戲中，玩家將扮演一名勇敢的弓箭手，挑戰層層關卡，擊敗各種敵人和強大的首領。每一層塔都有不同的敵人和障礙，玩家需要靈活運用各種技能和走位來應對挑戰。
 隨著遊戲進行，玩家可以升級角色、解鎖新技能提升自己的戰鬥力。
 # Development timeline
