@@ -1,4 +1,4 @@
-Game Name :\ Defense of the DragonFell
+Game Name : Defense of the DragonFell
 
 Team Members :\ 112590038 潘雙永
                112590039 章家馨
