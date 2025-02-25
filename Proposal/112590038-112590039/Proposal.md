@@ -28,7 +28,7 @@ Week 12: Save & Load System.\
 Week 13: Polish animations.\
 Week 14: Adjusting or debugging.\
 Week 15: Final adjustment.\
-Week 16: Submit project.\
+Week 16: Submit project.
 
 
 This is the video link of the similar game that we want to create.
