@@ -11,7 +11,7 @@ Game Introduction
     left, the game is over.
     
 Timeline:
-Week 1 : Concept & Design. Sketch the game story and the overall game design.
+Week 1 : Concept & Design. Sketch the game story and the overall game design./n
 Week 2 : Design project setup and game structure.
 Week 3 : Put towers into the map and test.
 Week 4 : Design enemy path.
