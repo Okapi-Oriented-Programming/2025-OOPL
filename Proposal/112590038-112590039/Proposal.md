@@ -1,7 +1,9 @@
-Game Name : Defense of the DragonFell
+Game Name : 
+Defense of the DragonFell
 
-Team Members :\ 112590038 潘雙永
-               112590039 章家馨
+Team Members : 
+112590038 潘雙永
+112590039 章家馨
                
 Game Introduction\
     I want to create a classic tower defense game in which
