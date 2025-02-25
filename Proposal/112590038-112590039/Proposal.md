@@ -11,11 +11,22 @@ Game Introduction
     left, the game is over.
     
 Timeline:
-Week 1 : Collect game assets.
-Week 2 : Create battle ground map and put enemies into the map.
+Week 1 : Concept & Design. Sketch the game story and the overall game design.
+Week 2 : Design project setup and game structure.
 Week 3 : Put towers into the map and test.
-Week 4 : Put player's UI into the game.
-Week 5 ... Upgrade the game.
+Week 4 : Design enemy path.
+Week 5 : Design attacking and damage system.
+Week 6 : Difficulty scaling.
+Week 7 : Player economy (gold/mana). Prepare for "Demo".
+Week 8 : Design UI
+Week 9 : Sound and Visual effects.
+Week 10: Advanced Towers & Enemies.
+Week 11: Game Balancing and tesing.
+Week 12: Save & Load System.
+Week 13: Polish animations.
+Week 14: Adjusting or debugging.
+Week 15: Final adjustment.
+Week 16: Submit project.
 
 
 This is the video link of the similar game that we want to create.
