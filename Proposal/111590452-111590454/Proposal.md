@@ -21,6 +21,8 @@ Arrow a Row 是一款自動跑步遊戲，玩家控制角色在關卡中自動�
 - 會獲勝：擊敗最後的 BOSS 即可過關。
 - 有關卡：遊戲包含多個關卡，每個關卡都有不同的敵人類型且難度會提升。
 
+[遊戲影片](https://youtu.be/DjK9NC_tRxI)
+
 
 # Development timeline
 
