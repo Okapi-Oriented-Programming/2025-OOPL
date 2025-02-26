@@ -75,4 +75,7 @@
   - 進行完整遊戲流程測試，確保從開頭到 Boss 戰皆可順利遊玩。
   - 檢查所有動畫、音效與特效是否符合預期。
 
+# 參考影片
+https://www.bilibili.com/video/av840226770?vd_source=4a076cf1c0ca5ddec59c0f256182c37d&p=4&spm_id_from=333.788.videopod.episodes
+(一)被囚者牢房以及(四)黑色大橋的部分(BOSS)
 
