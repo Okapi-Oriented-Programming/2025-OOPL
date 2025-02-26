@@ -11,6 +11,9 @@
 
 總共會做十個關卡，前五關是基本的推箱子遊戲，隨著關卡的推進會逐漸增加難度，第六關開始則會開始有移動次數限制，若在限制內沒有破關就會死掉並需要重新開始遊戲，解完十個關卡就獲勝。
 
+#　影片連結
+https://youtu.be/pedZkFyh9vI?feature=shared
+
 # Operation
 - 上: Util::Keycode::UP
 - 下: Util::Keycode::DOWN
