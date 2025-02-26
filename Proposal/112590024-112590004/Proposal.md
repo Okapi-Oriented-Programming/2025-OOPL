@@ -61,5 +61,5 @@
 
 - Week 18：最終交付與整理
 # Lab 1  
-![image](Proposal/112590024-112590004/image.png)
+![image](https://github.com/KelenHappy/2025-OOPL/blob/main/Proposal/112590024-112590004/image.png)
 
