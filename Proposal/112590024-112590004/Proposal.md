@@ -61,5 +61,5 @@
 
 - Week 18：最終交付與整理
 # Lab 1  
-![image]()
+![image](/image.png)
 
