@@ -42,3 +42,8 @@
   - [ ] boss行為設計
 - Week 18: 試玩以及bug修復
   - [ ] 修復可能存在的Bug
+
+  遊戲影片連結:
+  https://youtu.be/rLl9XBg7wSs?si=11nXHE-KF2hZNido
+
+  我們會製作三個關卡~
