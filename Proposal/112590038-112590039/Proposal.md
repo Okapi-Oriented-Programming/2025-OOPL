@@ -48,12 +48,12 @@ when the ping-pong ball moves out of the game border, the player loses one live.
 - Week 14：Adjusting or debugging.
   - [ ] Put some musics in the game to listen to while playing.
 - Week 15：Add more levels if there is time.
-  -[ ] Add more challenging level.
+  - [ ] Add more challenging level.
 - Week 16：Add more levels if there is time.
-  -[ ] Add more challenging level.
+  - [ ] Add more challenging level.
 - Week 17：Add more levels if there is time. Final submission.
-  -[ ] Add more challenging level.
-  -[ ] Submit project.
+  - [ ] Add more challenging level.
+  - [ ] Submit project.
 
 This is the video link of the similar game that we want to create.
 https://www.youtube.com/watch?v=MNPp_sCkZRg
