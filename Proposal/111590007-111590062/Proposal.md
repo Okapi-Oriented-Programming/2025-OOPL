@@ -76,4 +76,7 @@
 ![alt text](S__4055055.jpg)
 
 # Giraffe_Adventure
+111590007 陳偉智
 ![alt text](giraffe.png)
+111590062 李其灝
+![alt text](111590062_giraffe.png)
