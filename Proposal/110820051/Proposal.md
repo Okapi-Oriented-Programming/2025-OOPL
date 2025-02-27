@@ -1,43 +1,43 @@
 # Abstract
 
-�C���W�١G���c�l
+遊戲名稱：推箱子
 
-�խ��G
+組員：
 
-- 110820051 �B�öh
+- 110820051 劉秉逸
 
 # Game Introduction
 
-�C�����e�A�N���w���c�l���ܲ��I�A�i�H������ԡA�p�Y���J�����i�H�I��R�䭫�]�����A���ɶ����|���]�A�Y�ɶ������|�������h���ѡA�@�@�T���A(�ȩw�A�H��ڻs�@���רM�w�����j�p)�Ĥ@���N�O�@��3*3�������A�ĤG���h�O5*5�A�ĤT����6*6
+遊戲內容，將指定的箱子推至終點，可以推不能拉，如若陷入僵局可以點擊R鍵重設局面，但時間部會重設，若時間結束尚未完成則失敗，一共三關，(暫定，以實際製作難度決定局面大小)第一關將是一個3*3的局面，第二關則是5*5，第三關為6*6
 
 # Development timeline
 
-- Week 1:��������
-�T�߸Ӧp�󰵥X�}����c�l���ʧ@�H�Φp�󭫳]�����A�P�w�ӭt�C
+- Week 1:收集知識
+確立該如何做出腳色推箱子的動作以及如何重設局面，判定勝負。
 
-- Week 2:��������
-�}��ҫ��A�c�l�ҫ��A���w�c�l�ҫ�
+- Week 2:收集素材
+腳色模型，箱子模型，指定箱子模型
 
-- Week 3:���}�Ⲿ��
+- Week 3:實踐腳色移動
 
-- Week 4:�}���m���T�{�H�ι�c�l���v�T
+- Week 4:腳色位置的確認以及對箱子的影響
 
-- Week 5:�T�w�c�l�m���m
+- Week 5:確定箱子置放位置
 
-- Week 6:�c�l�S�ʪ��]�w(�ؼнc�A���q�c�A���i���ʽc)
+- Week 6:箱子特性的設定(目標箱，普通箱，不可移動箱)
 
-- Week 7:�}��Ĳ�I�c�l�ɹ�c�l�y�в��ͪ��v�T
+- Week 7:腳色觸碰箱子時對箱子座標產生的影響
 
-- Week 8:���]�������]�w
+- Week 8:重設局面的設定
 
-- Week 9:�P�w�ؼнc��F��m�P�_�H�ζi�J�U�@���d���s��
+- Week 9:判定目標箱抵達位置與否以及進入下一關卡的連結
 
-- Week 10:�u�ʶg�A�Y�e�観���������ؼнվ㤧�ɶ�
+- Week 10:彈性週，若前方有未完成之目標調整之時間
 
-- Week 11:���d���׳̲׽T�{
+- Week 11:關卡難度最終確認
 
-- Week 12:�}�Ⲿ�ʽc�l�O�_��bug���T�{
+- Week 12:腳色移動箱子是否有bug之確認
 
-- Week 13-17:������w
+- Week 13-17:整體統籌
 
-- Week 18:�����t��
+- Week 18:期末演示
