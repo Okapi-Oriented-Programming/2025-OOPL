@@ -39,6 +39,7 @@ void App::ValidTask() {
 
         case Phase::COLLIDE_DETECTION:
             if (m_Giraffe->IfCollides(m_Chest)) {
+                m_Chest->SetVisible(false);
                 if (m_Chest->GetVisibility()) {
                     LOG_DEBUG("The giraffe collided with the chest but the chest is still visible");
                 } else {
@@ -54,9 +55,11 @@ void App::ValidTask() {
             break;
 
         case Phase::BEE_ANIMATION:
+            m_Bee->SetLooping(true);
+            m_Bee->SetVisible(true);
             isBeeLooping = m_Bee->IsLooping();
             isBeePlaying = m_Bee->IsPlaying();
-
+            for (int j = 0; j < 2000000000; j++) {}
             if (isBeeLooping && isBeePlaying) {
                 m_Phase = Phase::OPEN_THE_DOORS;
                 m_Giraffe->SetPosition({-112.5f, -140.5f});
@@ -72,6 +75,13 @@ void App::ValidTask() {
             break;
 
         case Phase::OPEN_THE_DOORS:
+            for (const auto& door : m_Doors) {
+                if (m_Giraffe->IfCollides(door)) {
+                    door->SetImage(GA_RESOURCE_DIR "/Image/Character/door_open.png");
+                    LOG_DEBUG("Door opened!");
+                }
+            }
+
             if (AreAllDoorsOpen(m_Doors)) {
                 m_Phase = Phase::COUNTDOWN;
                 std::for_each(m_Doors.begin(), m_Doors.end(), [](const auto& door) { door->SetVisible(false); });
@@ -84,6 +94,7 @@ void App::ValidTask() {
             break;
 
         case Phase::COUNTDOWN:
+            m_Ball->SetVisible(true);
             if (m_Ball->IfAnimationEnds()) {
                 LOG_DEBUG("Congratulations! You have completed Giraffe Adventure!");
                 m_CurrentState = State::END;
