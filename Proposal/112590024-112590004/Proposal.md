@@ -13,6 +13,10 @@
 - 策略型戰略塔房遊戲。
 - https://www.youtube.com/watch?v=M4kZzAA9-m0    
 
+# 角色
+  - 
+  - 敵人
+  
 # Development timeline
 
 - Week 1：準備素材 
