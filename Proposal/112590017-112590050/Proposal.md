@@ -9,7 +9,10 @@
 # Game Introduction
 
 我們的遊戲名為「超級瑪莉歐兄弟」，目的是希望能夠複刻這款經典的遊戲，內容的所有物件都是從網路上下載下來。遊戲中，我們會設置各種不同的場景關卡，過程如果碰到怪物、有害障礙物或跳入虛空、岩漿等，便會失去一條命，每一關總共有三條命。
+關卡預計9關
 
+附上影片連結:
+https://youtu.be/rLl9XBg7wSs?si=11nXHE-KF2hZNido
 # Development timeline
 
 - Week 1：準備素材
@@ -40,10 +43,5 @@
   - [ ] boss設計
   - [ ] boss場景設計
   - [ ] boss行為設計
-- Week 18: 試玩以及bug修復
-  - [ ] 修復可能存在的Bug
-
-  遊戲影片連結:
-  https://youtu.be/rLl9XBg7wSs?si=11nXHE-KF2hZNido
-
-  我們會製作三個關卡~
+- Week 18: 遊戲音樂添加
+  - [ ] 將遊戲音樂加入進關卡
