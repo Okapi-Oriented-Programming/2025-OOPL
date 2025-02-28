@@ -170,3 +170,12 @@
 - [ ] 準備並展示完整遊戲
 
 
+# 長頸鹿大冒險
+
+## 112590015
+![長頸鹿](assets/messageImage_1740747031493.jpg)
+![長頸鹿](assets/messageImage_1740747086707.jpg)
+
+## 112AB0053
+![長頸鹿](assets/CleanShot%202025-02-28%20at%2021.03.18.png)
+![長頸鹿](assets/CleanShot%202025-02-28%20at%2021.03.52@2x.png)
