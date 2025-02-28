@@ -94,7 +94,7 @@ https://www.youtube.com/watch?v=z7mqK-hBY7I&list=PLmLPGIudAT1Stj6b48r6XwRlLC-JeS
 - Week 15：除錯與優化
   - [ ] 測試，修正 Bug
   - [ ] 提升遊戲效能與流暢度
-week 15~16：最終測試與調整
+week 16：最終測試與調整
   - [ ] 依據測試結果進行細部修改
 week 17~18：最終版本釋出，準備報告與遊戲影片錄製
 
