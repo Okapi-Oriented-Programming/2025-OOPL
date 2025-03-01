@@ -9,6 +9,10 @@
 # Game Introduction
 《聖火降魔錄 暗黑龍與光之劍》是一款由Intelligent Systems及任天堂開發第一部共同開發、任天堂於1990/04/20發行的戰略角色扮演遊戲，適用於紅白機平台。這款遊戲是聖火降魔錄系列的第一款作品。遊戲故事敘述邪惡祭司卡涅夫與暗黑龍梅迪烏斯聯手重建多魯亞帝國，並向周邊國家展開侵略行動。主角馬爾斯在祖國被帝國滅亡後成功逃離，為了復興祖國，他必須聯合其他志同道合的戰友，以抵抗邪惡的多魯亞帝國大軍以及卡涅夫與梅迪烏斯兩人。遊戲內的每場戰鬥都在網格狀地圖上進行，而被敵方擊敗的角色則會永久死亡。
 
+- 關卡挑戰成功：擊敗敵對Boss，並讓Marth佔領城堡。
+- 關卡挑戰失敗：主角被敵對擊殺。
+- 遊戲勝利：預估會做到第五關結束，暫且以地五關作為遊戲通關依據。
+
 實機：[Let's Play Fire Emblem: Shadow Dragon And The Blade Of Light by Bumpy McSquigums](https://www.youtube.com/watch?v=Wo-Yvw9KIek&list=PLtzgP48ATFJApr_suNjQ2G-o5JEYkBKwn&index=1)
 
 資料與計算參考：[Serenes Forest](https://serenesforest.net/shadow-dragon-and-blade-of-light/)
