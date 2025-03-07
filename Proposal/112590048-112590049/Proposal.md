@@ -1,4 +1,3 @@
-```
 # Abstract
 
 遊戲名稱：星之卡比
@@ -31,21 +30,22 @@
   - [ ] 進行遊戲人物行為設計
   - [ ] 鏡頭的移動設計
   - [ ] 血量設計
-- Week 9~10：場景互動
-  - [ ] 人物與場景互動
-  - [ ] 人物與地形碰撞箱設計
-- Week 11~13：怪物設計
+- Week 9~11：怪物設計
   - [ ] 處理怪物的素材
   - [ ] 進行怪物行為設計
   - [ ] 怪物移動模式
-- Week 14~15：場景互動
+- Week 12~14：場景互動
+  - [ ] 人物與場景互動
   - [ ] 怪物與場景互動
   - [ ] 怪物與人物互動
-- Week 16~17：boss關卡設計
+- Week 15~16：boss關卡設計
   - [ ] boss設計
   - [ ] boss場景設計
   - [ ] boss行為設計
-- Week 18：試玩以及bug修復
+- Week 17：試玩以及bug修復
   - [ ] 修復可能存在的Bug
 
-```
+# Video sources
+
+相關影片連結：
+https://www.youtube.com/watch?v=-rqtv2W0Iz0&list=PLRLJoiyqGqBX_60wzcoLrNGaMMd9XodSW&ab_channel=MKDU卡比天地
